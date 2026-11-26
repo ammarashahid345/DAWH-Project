@@ -1,0 +1,28 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Airflow logs and local configuration
+logs/
+config/airflow.cfg
+
+# Source datasets and generated data
+data/
+
+# Backup files
+*.backup
+*.grafana-backup
+*_backup.py
+*_before_synthetic.py
+
+# Temporary files
+*.tmp
+.DS_Store
+

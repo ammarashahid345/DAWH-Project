@@ -1,0 +1,4 @@
+Query,Description,Planning_Time_ms,Execution_Time_ms,Rows_Returned
+Q1,Hospital Monthly Demand,0.788,26.861,456
+Q2,Forecast Accuracy and Fulfilment,1.207,39.655,112
+Q3,Sales Channel Profitability,0.806,236.696,2
