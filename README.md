@@ -1,5 +1,6 @@
 # Project-phase-1-DAWH
-Sales and Demand Intelligence Ammara (36238), Zunaira(36225)
+Sales and Demand Intelligence
+Group Members : Ammara Shahid (36238), Zunaira Hassan (36225)
 # Pharma Cold Chain – Data Warehouse & Business Intelligence Project
 
 ## Phase 1: Sales & Demand Intelligence (SDI)
