@@ -102,6 +102,9 @@ General startup sequence (adjust filenames/commands to match the files included 
 
 Do not commit local credentials, `.env` files, virtual environments, database volumes, or other secrets to the repository.
 
+## Phase 1 Demo Video
+Watch demo video here: https://drive.google.com/file/d/1aR0lKV8DZd_jKNVB5uKWGAPrdUA6va7u/view?usp=drive_link
+
 ### Project Notes
 - Database name: `pharma_dwh`
 - PostgreSQL schemas: `raw`, `staging`, `mart`
